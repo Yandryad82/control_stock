@@ -1,0 +1,101 @@
+.contenedor-principal {
+   
+   width: 200px;
+   height: 200px;
+}
+
+.imagen-contenedor-principal-bienvenida {
+      
+   margin-top: 20px;
+   text-align: center;   
+
+
+}
+
+.imagen-contenedor-principal-bienvenida img {
+   width: 500px;
+   height: 500px;
+   border-radius: 25px;
+}
+
+.container {
+   margin-top: 40px;
+   text-align: center;
+   font-family: sans-serif;
+   font-style:normal;
+   
+   
+}
+
+.container h1 {
+   color: darkgreen;
+}
+
+.navbar-dropdown a {
+   color: chocolate;
+}
+
+.imagen-login {
+   position: absolute;
+   margin-top: -410px;
+   
+}
+
+.imagen-login img {
+   width: 150px;
+   height: 150px;
+}
+
+.main-container h5 {
+   color: darkgreen;
+}
+
+.candado-abierto img {
+   width: 100px;
+   height: 100px;
+   position: absolute;
+   margin-top: -500px;
+   margin-left: 150px;
+}
+
+.texto-candado-abierto {
+   position: absolute;
+   margin-top: -550px;
+   margin-left: 120px;
+}
+
+.candado-cerrado img {
+   width: 100px;
+   height: 100px;
+   position: absolute;
+   margin-top: -500px;
+   margin-left: 150px;
+}
+
+.texto-candado-cerrado {
+   position: absolute;
+   margin-top: -550px;
+   margin-left: 130px;
+}
+
+.texto-explicativo {
+   width: 400px;
+   height: 100px;
+   position: absolute;
+   text-align: center;
+   margin-top: -360px;
+   margin-left: 5px;
+   font-family: sans-serif;
+   color: darkslategray;
+}
+
+.texto-explicativo-admin {
+   width: 400px;
+   height: 100px;
+   position: absolute;
+   text-align: center;
+   margin-top: -360px;
+   margin-left: 5px;
+   font-family: sans-serif;
+   color: darkslategray;
+}
